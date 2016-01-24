@@ -22,5 +22,5 @@ For the SDK versions you can either implement the `SdkVersion` interface or use 
 Use `mavenCentral()` repository.
 
 ```groovy
-compile 'com.toxicbakery.android.version:versions:+@aar'
+compile 'com.ToxicBakery.android.version:versions:+@aar'
 ```
